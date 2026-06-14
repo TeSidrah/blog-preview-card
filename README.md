@@ -39,4 +39,4 @@ https://tesidrah.github.io/blog-preview-card/
 ## Challenge
 
 Frontend Mentor — Blog preview card  
-[Added once submitted]
+https://www.frontendmentor.io/solutions/blog-preview-card-flexbox-layout-yS3CmzvNLp
